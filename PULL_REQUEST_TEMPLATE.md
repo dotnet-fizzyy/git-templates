@@ -1,3 +1,9 @@
+<!-- **Note** -->
+<!-- Your PR title have the following template: "[Task Id] - [Task name]" -->
+<!-- Example: "7 - Calculate average users balance and display it on sidebar" -->
+
+<!-- Comments can be easily removed during PR preparation, they just have tooltips roles -->
+
 ## [Task Id](https://website/taskid) - Task name
 <br />
 
