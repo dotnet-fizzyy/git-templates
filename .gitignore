@@ -1,0 +1,6 @@
+# JebBrains:
+.idea/
+
+# Microsoft:
+.vscode/
+.vs/
